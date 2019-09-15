@@ -3,6 +3,10 @@
     src: url("../fonts/DS-DIGI.TTF") format("truetype");
 }
 
+body {
+    background-color: #f5f5f5;
+}
+
 
 .abortionml {
     background-color: #f5f5f5;
