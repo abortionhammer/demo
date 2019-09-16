@@ -1,5 +1,7 @@
 # Demo
+
+## Description
 Animated and interactive explanation of how our Anti-choice Tweet Detector program works.
 
-# Credits
+## Credits
 Sound effects obtained from https://www.zapsplat.com
